@@ -1,6 +1,6 @@
-## Rails backend for budget-manager-client
+## Rails backend for budget-manager-client
 
-#### Using:
+### Using:
 
   - Rails 6.0.2
   - ruby 2.6.3
